@@ -1,0 +1,13 @@
+.fundal {
+    width: auto;
+    height: 10100px;
+    background-image: url(imagini/istorie.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: -8px;
+}
+
+body {
+    background: black;
+}
